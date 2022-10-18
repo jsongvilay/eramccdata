@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>eventManager</name>
-	<comment>Project eventManager created by Buildship.</comment>
+	<name>project-data-service</name>
+	<comment>Project mcc-dataservice created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
