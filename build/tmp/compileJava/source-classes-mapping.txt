@@ -22,3 +22,7 @@ com/webage/logging/ApiLogger.java
  com.webage.logging.ApiLogger
 com/webage/api/CustomerAPI.java
  com.webage.api.CustomerAPI
+com/webage/util/JWTHelper.java
+ com.webage.util.JWTHelper
+com/webage/filter/AuthFilter.java
+ com.webage.filter.AuthFilter
